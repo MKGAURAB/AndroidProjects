@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IQ-Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nGame">Play witfully and enjoy!!!</string>
+    <string name="start">START</string>
+    <string name="credit">CREDITS</string>
+    <string name="help">HELP</string>
+    <string name="finish">FINISH</string>
+    <string name="shelp">You will be given a question and four options to answer. You have to select one of the answers which you think as correct. Consecutive 3 wrong answers will reset your level.</string>
+    <string name="developer">Developer: Md. Khairullah Gaurab</string>
+    <string name="trainer">Trainer: Mr. Reazul Karim</string>
+    <string name="contact">Contact: gaurab.cse.sust@gmail.com</string>
+    <string name="quest">Question</string>
+    <string name="choice">Choose:</string>
+    <string name="exit">Exit</string>
+
+</resources>
